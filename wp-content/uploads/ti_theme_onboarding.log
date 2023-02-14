@@ -1,0 +1,26 @@
+[10/Feb/2023:05:03:00] (I): WordPress Instance Info:
+[10/Feb/2023:05:03:00] (I): Home URL : https://pruebakonectajonathan.azurewebsites.net
+[10/Feb/2023:05:03:00] (I): Site URL : https://pruebakonectajonathan.azurewebsites.net
+[10/Feb/2023:05:03:00] (I): WordPress Version : 6.1.1
+[10/Feb/2023:05:03:00] (I): Onboarding Version : 1.1.33
+[10/Feb/2023:05:03:00] (I): Multisite : No
+[10/Feb/2023:05:03:00] (I): Server Info : nginx/1.20.2
+[10/Feb/2023:05:03:00] (I): PHP Version : 8.0.25
+[10/Feb/2023:05:03:00] (I): HTTPS : Yes
+[10/Feb/2023:05:03:00] (I): PHP Max Execution Time : 120
+[10/Feb/2023:05:03:00] (I): PHP Max Input Vars : 10000
+[10/Feb/2023:05:03:00] (I): Max Upload Size : 52428800
+[10/Feb/2023:05:03:00] (I): Plugins:
+[10/Feb/2023:05:03:01] (I): [PLUGIN] Advanced Import : v1.3.9 (AddonsPress)
+[10/Feb/2023:05:03:01] (I): [PLUGIN] Bosa Elementor Addons for WooCommerce : v1.0.10 (Bosa Themes)
+[10/Feb/2023:05:03:01] (I): [PLUGIN] Breadcrumb NavXT : v7.2.0 (John Havlik | Traducción: Karin Sequén)
+[10/Feb/2023:05:03:01] (I): [PLUGIN] Contact Form 7 : v5.7.3 (Takayuki Miyoshi)
+[10/Feb/2023:05:03:01] (I): [PLUGIN] Elementor : v3.10.2 (Elementor.com)
+[10/Feb/2023:05:03:01] (I): [PLUGIN] ElementsKit Lite : v2.8.1 (Wpmet)
+[10/Feb/2023:05:03:01] (I): [PLUGIN] Keon Toolset : v1.5.0 (Keon Themes)
+[10/Feb/2023:05:03:01] (I): [PLUGIN] Kirki Customizer Framework : v4.1.1 (David Vongries)
+[10/Feb/2023:05:03:01] (I): [PLUGIN] Templates Patterns Collection : v1.1.33 (ThemeIsle)
+[10/Feb/2023:05:03:01] (I): [PLUGIN] WooCommerce : v7.3.0 (Automattic)
+[10/Feb/2023:05:03:01] (I): [PLUGIN] YITH WooCommerce Compare : v2.22.0 (YITH)
+[10/Feb/2023:05:03:01] (I): [PLUGIN] YITH WooCommerce Quick View : v1.23.0 (YITH)
+[10/Feb/2023:05:03:01] (I): [PLUGIN] YITH WooCommerce Wishlist : v3.17.0 (YITH)
